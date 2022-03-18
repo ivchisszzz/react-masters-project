@@ -1,0 +1,9 @@
+.product-thumbnail {
+  width: 16rem;
+  height: 15rem;
+}
+
+.product-thumbnail-grid {
+  height: 50px;
+  width: 100px;
+}
